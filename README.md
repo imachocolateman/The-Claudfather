@@ -1,6 +1,8 @@
 # The Claudfather 🎩
 
-A curated collection of production-ready Claude Code components (commands, skills, and agents) designed for modular reuse across projects.
+A curated collection of Claude Code components (commands, skills, and agents) designed for modular reuse across projects.
+
+**Important** This is currently in development only. Not ready for use
 
 ## What's Inside
 
